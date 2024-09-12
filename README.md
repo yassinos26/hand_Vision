@@ -1,10 +1,12 @@
 # hand_Vision
 control with vision hand (Write , Draw , Play)
 
-1- install les dependecie 
+1- install les publiotheques
+
 pip install -r requirements.txt
 
 2- run le code main ficher
+
 python main.py
 
 ![457f63d0-bd91-445f-9b59-cea5d3b97b62](https://github.com/user-attachments/assets/6ce14ffb-d322-4350-9d4d-a7da1d17def4)
